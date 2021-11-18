@@ -6,6 +6,7 @@ import (
 	"github.com/Gar-ufo/gtoggl-api/gtproject"
 	"github.com/Gar-ufo/gtoggl-api/gtuser"
 	"github.com/Gar-ufo/gtoggl-api/gtworkspace"
+	"github.com/Gar-ufo/gtoggl-api/gttimeentry"
 )
 
 // Client is an Toggl REST client. Created by calling NewClient.
