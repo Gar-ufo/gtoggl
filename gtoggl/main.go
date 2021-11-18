@@ -20,7 +20,7 @@
 
 package main
 
-import "github.com/dougEfresh/gtoggl/gtoggl/cmd"
+import "github.com/Gar-ufo/gtoggl/gtoggl/cmd"
 
 func main() {
 	cmd.Execute()

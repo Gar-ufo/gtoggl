@@ -26,8 +26,8 @@ import (
 
 	"encoding/json"
 
-	"github.com/dougEfresh/gtoggl"
-	"github.com/dougEfresh/gtoggl-api/gthttp"
+	"github.com/Gar-ufo/gtoggl"
+	"github.com/Gar-ufo/gtoggl-api/gthttp"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

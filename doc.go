@@ -4,7 +4,7 @@
 Package gtoggl access to toggl REST API
 
 Example:
-        import "github.com/dougEfresh/gtoggl.v8"
+        import "github.com/Gar-ufo/gtoggl.v8"
 
         func main() {
        	    tc, err := gtoggl.NewClient("token")

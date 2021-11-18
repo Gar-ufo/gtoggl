@@ -6,7 +6,7 @@ project: lambdazap
 installation: >-
   ```shell
 
-  $ go get -u github.com/dougEfresh/
+  $ go get -u github.com/Gar-ufo/
 
   ```
 quickStart:
